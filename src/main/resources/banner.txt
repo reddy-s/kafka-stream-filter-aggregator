@@ -1,0 +1,9 @@
+${AnsiColor.MAGENTA}     ___                                         __
+${AnsiColor.MAGENTA}    / _ |  ___ _  ___ _  ____ ___   ___ _ ___ _ / /_ ___   ____
+${AnsiColor.MAGENTA}   / __ | / _ `/ / _ `/ / __// -_) / _ `// _ `// __// _ \ / __/
+${AnsiColor.MAGENTA}  /_/ |_| \_, /  \_, / /_/   \__/  \_, / \_,_/ \__/ \___//_/
+${AnsiColor.MAGENTA}         /___/  /___/             /___/
+${AnsiColor.MAGENTA}
+${AnsiColor.BRIGHT_BLUE} ${info.app.name} :: ${AnsiColor.BRIGHT_CYAN} Running Spring Boot ${spring-boot.version}
+${AnsiColor.BRIGHT_BLUE} Description :: ${AnsiColor.BRIGHT_CYAN} ${info.app.description}
+${AnsiColor.BRIGHT_BLUE} Topic being read :: ${AnsiColor.BRIGHT_CYAN} ${kafka.topic}
